@@ -1,4 +1,4 @@
-# Hi, I’m Natasya
+# Hi, I’m Natasya 👋
 
 🌱 Welcome to my GitHub account! Here 
 you'll find repositories related to learning and exploration in the field of artificial intelligence (AI).I'm committed to deepening my understanding of AI concepts and techniques, as well as sharing knowledge and projects I develop. Feel free to explore these repositories and don't hesitate to contribute or provide feedback. Thank you for visiting!
